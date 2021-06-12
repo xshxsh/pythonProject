@@ -1,8 +1,9 @@
-
 import requests
 from bs4 import BeautifulSoup
 import time
-0
+
+# 爬取美女壁纸
+
 url = 'https://pic.netbian.com/4kmeinv/'
 resp = requests.get(url)
 resp.encoding = 'gbk'
@@ -13,8 +14,7 @@ for img in imgs:
     # print(imgUrl)
     imgDown = requests.get(imgUrl)
     imgDown.encoding = 'gbk'
-    with open('img/' + img.get('alt') + '.jpg', mode='wb') as file:
+    with open('file/' + img.get('alt') + '.jpg', mode='wb') as file:
         file.write(imgDown.content)
     print('下载完成：', img.get('alt'))
     # time.sleep(1)
-
