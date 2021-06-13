@@ -9,7 +9,7 @@ import requests
 # 代理地址
 proxies = {
     'http': 'https://119.3.235.101:3128',
-    'http': '113.100.209.113:3128'
+    'http': 'https:113.100.209.113:3128'
 }
 
 resp = requests.get('https://www.baidu.com/', proxies=proxies)
