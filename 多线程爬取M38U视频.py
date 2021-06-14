@@ -1,3 +1,4 @@
+import os
 import threading
 import requests
 import re
@@ -56,9 +57,26 @@ def download_video(name, url):
         print(f'当前线程：{threading.currentThread().name}，下载完{name}.ts')
 
 
+# 合并视频
+def merge_ts():
+    lst = []
+    with open('file/孤星第二季01.m3u8', mode='r', encoding='utf-8') as f:
+        for i, line in enumerate(f):
+            line = line.strip()
+            if line.startswith('#'):
+                continue
+            lst.append(line.split('/')[-1] + '.ts+')
+    s = ''.join(lst).rstrip('+')
+    # print(s)
+    #  执行合并命令：copy /b 1.ts 2.ts 3.ts a.mp4
+    # TODO 命令行长度限制，会报错
+    os.system(f'copy /b {s} a.mp4')
+
+
 if __name__ == '__main__':
-    download_m3u8()
-    t1 = time.time()
-    parse_m3u8()
-    print('耗时', time.time() - t1)
+    # download_m3u8()
+    # t1 = time.time()
+    # parse_m3u8()
+    # print('耗时', time.time() - t1)
+    merge_ts()
     print('over')
