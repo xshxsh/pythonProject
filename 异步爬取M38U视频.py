@@ -3,6 +3,7 @@ import requests
 import re
 import asyncio
 import aiohttp
+import time
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36"
@@ -40,8 +41,8 @@ async def parse_m3u8():
             if line.startswith('#'):
                 continue
             # 测试，只下载几个
-            if i == 20:
-                break
+            # if i == 20:
+            #     break
             tasks.append(asyncio.create_task(download_video(line.split('/')[-1], line)))
     await asyncio.wait(tasks)
 
@@ -58,6 +59,10 @@ async def download_video(name, url):
 if __name__ == '__main__':
     download_m3u8()
 
+    t1 = time.time()
     loop = asyncio.get_event_loop()
     loop.run_until_complete(parse_m3u8())
+
+    print('耗时', time.time() - t1)
+
     print('over')

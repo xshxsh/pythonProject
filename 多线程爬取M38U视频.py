@@ -2,6 +2,7 @@ import threading
 import requests
 import re
 from concurrent.futures import ThreadPoolExecutor
+import time
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36"
@@ -37,8 +38,8 @@ def parse_m3u8():
             if line.startswith('#'):
                 continue
             # 测试，只下载几个
-            if i == 20:
-                break
+            # if i == 20:
+            #     break
             tasks.append((line.split('/')[-1], line))
     # 开启10个线程同时下载
     with ThreadPoolExecutor(10) as t:
@@ -57,5 +58,7 @@ def download_video(name, url):
 
 if __name__ == '__main__':
     download_m3u8()
+    t1 = time.time()
     parse_m3u8()
+    print('耗时', time.time() - t1)
     print('over')
