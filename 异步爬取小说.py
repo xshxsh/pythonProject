@@ -5,6 +5,8 @@ import requests
 from lxml import etree
 from bs4 import BeautifulSoup
 
+# 使用协程异步获取小说
+
 domain = 'https://www.xyyuedu.com'
 
 
