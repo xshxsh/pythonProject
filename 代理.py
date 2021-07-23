@@ -8,8 +8,8 @@ import requests
 
 # 代理地址
 proxies = {
-    'http': 'https://119.3.235.101:3128',
-    'http': 'https:113.100.209.113:3128'
+    'http': 'https://59.55.166.128:3256',
+    'http': 'https:27.191.60.173:3256'
 }
 
 resp = requests.get('https://www.baidu.com/', proxies=proxies)
