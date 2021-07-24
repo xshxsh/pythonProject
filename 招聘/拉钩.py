@@ -60,7 +60,7 @@ def main():
 if __name__ == '__main__':
     keyword = 'Python 数据分析'
     # chromedriver.exe的路径
-    chrome_driver = r'D:\pythonProject\browser_driver\chromedriver.exe'
+    chrome_driver = r'F:\Code\crawler\browser_driver\chromedriver.exe'
     options = webdriver.ChromeOptions()
     # 关闭左上方 Chrome 正受到自动测试软件的控制的提示
     options.add_experimental_option('useAutomationExtension', False)
