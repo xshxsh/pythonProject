@@ -3,7 +3,9 @@ import random
 import openpyxl
 from selenium import webdriver
 import time
+import logging
 
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s: %(message)s')
 # 保存到excel
 wb = openpyxl.Workbook()
 sheet = wb.active
@@ -56,7 +58,7 @@ class QCWYjobs:
     def handlepages(self):
         # 需要遍历的页面数
         for p in range(0, self.pages):
-            print(f'嘘，不要声张，我正在偷偷地爬取第{p+1}页数据...')
+            logging.info(f'嘘，不要声张，我正在偷偷地爬取第{p+1}页数据...')
             self.handlepage()  # 调用单页面动态方法
             browser.find_element_by_class_name('e_icons.i_next').click()  # 点击下一页
             browser.implicitly_wait(10)  # 隐式等待，防止定位元素失败
