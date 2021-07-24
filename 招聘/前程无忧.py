@@ -22,11 +22,11 @@ browser = webdriver.Chrome(options=options, executable_path=driver)
 
 # 定义该类
 class QCWYjobs:
-    def __init__(self, keyword, pages, city):
+    def __init__(self):
         # 定义静态方法，其中需要属于三个参数，分别是职位信息、爬取的页数、城市
-        self.keyword = keyword
-        self.pages = pages
-        self.city = city
+        self.keyword = 'java开发'
+        self.pages = 1
+        self.city = '广州'
 
     # 定义职位输入方法 carrier
     def carrier(self):
@@ -84,6 +84,9 @@ class QCWYjobs:
 
     # 定义运行该类的动态方法
     def run(self):
+        self.keyword = input('请输入岗位(按回车确认): ')
+        self.city = input('请输入城市: ')
+        self.pages = int(input('请输入爬取数据页数(每页50条): '))
         url = 'https://www.51job.com/'
         # 前程无忧首页链接
         browser.get(url)
@@ -105,4 +108,4 @@ class QCWYjobs:
 
 
 # 调用该类并运行
-QCWYjobs(keyword='java web开发', pages=2, city='广州').run()
+QCWYjobs().run()
