@@ -25,6 +25,7 @@ def search_product(key_word):
     browser.execute_script("scroll(0,3000)")      # 下拉滚动条
     get_data()           # 调用抓取数据的函数
     # 模拟点击下一页   翻页爬取数据  每爬取一页数据  休眠   控制抓取速度  防止被反爬 让输验证码
+    # 超过10页要登录...
     for i in range(9):
         browser.find_element_by_class_name('pager_next ').click()
         time.sleep(1)
@@ -59,7 +60,7 @@ def main():
 if __name__ == '__main__':
     keyword = 'Python 数据分析'
     # chromedriver.exe的路径
-    chrome_driver = r'D:\pythonProject\chromedriver.exe'
+    chrome_driver = r'D:\pythonProject\browser_driver\chromedriver.exe'
     options = webdriver.ChromeOptions()
     # 关闭左上方 Chrome 正受到自动测试软件的控制的提示
     options.add_experimental_option('useAutomationExtension', False)
