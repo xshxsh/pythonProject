@@ -1,0 +1,4414 @@
+[
+	{
+		"thingId": "11FvvifzSKI",
+		"userName": "DEU10ND_00150101ff0000d7",
+		"authToken": "04df01e599600d93",
+		"assetId": "00150101ff0000d7",
+		"name": "缝纫机_0000d7",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"manufacturerFd": false,
+			"manufacturerTs": 1627869153059,
+			"model": "DEU10ND-GZZJ REV.A",
+			"modelFd": false,
+			"modelTs": 1627869153059,
+			"fwVersion": "V0.1.0",
+			"fwVersionFd": false,
+			"fwVersionTs": 1627869153059,
+			"hwVersion": "V1.00",
+			"hwVersionFd": false,
+			"hwVersionTs": 1627869153059
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"tags": [
+			"UUID"
+		],
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:17.054+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-08-02T01:52:33.059+00:00",
+		"updatedBy": "BB01180"
+	},
+	{
+		"thingId": "11Fvvi0fxJe",
+		"userName": "DEU10ND_00150101ff0000d6",
+		"authToken": "9f18e15f8b600ef8",
+		"assetId": "00150101ff0000d6",
+		"name": "缝纫机_0000d6",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:17.000+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:17.000+00:00"
+	},
+	{
+		"thingId": "11FvvhKm0rC",
+		"userName": "DEU10ND_00150101ff0000d5",
+		"authToken": "fb58c4788860063d",
+		"assetId": "00150101ff0000d5",
+		"name": "缝纫机_0000d5",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:16.945+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:16.945+00:00"
+	},
+	{
+		"thingId": "11FvvhuaS1W",
+		"userName": "DEU10ND_00150101ff0000d4",
+		"authToken": "490061752a60078e",
+		"assetId": "00150101ff0000d4",
+		"name": "缝纫机_0000d4",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:16.889+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:16.889+00:00"
+	},
+	{
+		"thingId": "11FvvheyVSo",
+		"userName": "DEU10ND_00150101ff0000d3",
+		"authToken": "e043cd2b91600efa",
+		"assetId": "00150101ff0000d3",
+		"name": "缝纫机_0000d3",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:16.833+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:16.833+00:00"
+	},
+	{
+		"thingId": "11FvvgZeAQU",
+		"userName": "DEU10ND_00150101ff0000d2",
+		"authToken": "28fbfb8685600a93",
+		"assetId": "00150101ff0000d2",
+		"name": "缝纫机_0000d2",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:16.778+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:16.778+00:00"
+	},
+	{
+		"thingId": "11FvvgJCEHm",
+		"userName": "DEU10ND_00150101ff0000d1",
+		"authToken": "deb552219e60056e",
+		"assetId": "00150101ff0000d1",
+		"name": "缝纫机_0000d1",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:16.724+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:16.724+00:00"
+	},
+	{
+		"thingId": "11FvvguijFS",
+		"userName": "DEU10ND_00150101ff0000d0",
+		"authToken": "1a27557c0560092a",
+		"assetId": "00150101ff0000d0",
+		"name": "缝纫机_0000d0",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:16.669+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:16.669+00:00"
+	},
+	{
+		"thingId": "11FvvgeGnwk",
+		"userName": "DEU10ND_00150101ff0000cf",
+		"authToken": "eb561d19fb60027b",
+		"assetId": "00150101ff0000cf",
+		"name": "缝纫机_0000cf",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:16.615+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:16.615+00:00"
+	},
+	{
+		"thingId": "11FvvfZ4rmM",
+		"userName": "DEU10ND_00150101ff0000ce",
+		"authToken": "46c5a48dee600262",
+		"assetId": "00150101ff0000ce",
+		"name": "缝纫机_0000ce",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:16.560+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:16.560+00:00"
+	},
+	{
+		"thingId": "11FvvfJsvde",
+		"userName": "DEU10ND_00150101ff0000cd",
+		"authToken": "3d783fcca4600f56",
+		"assetId": "00150101ff0000cd",
+		"name": "缝纫机_0000cd",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:16.505+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:16.505+00:00"
+	},
+	{
+		"thingId": "11FvvftQz3G",
+		"userName": "DEU10ND_00150101ff0000cc",
+		"authToken": "c9be27c572600c67",
+		"assetId": "00150101ff0000cc",
+		"name": "缝纫机_0000cc",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:16.450+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:16.450+00:00"
+	},
+	{
+		"thingId": "11FvvfeeCU8",
+		"userName": "DEU10ND_00150101ff0000cb",
+		"authToken": "76c250647960092b",
+		"assetId": "00150101ff0000cb",
+		"name": "缝纫机_0000cb",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:16.395+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:16.395+00:00"
+	},
+	{
+		"thingId": "11FvveYl5Cw",
+		"userName": "DEU10ND_00150101ff0000ca",
+		"authToken": "629af4c29d600552",
+		"assetId": "00150101ff0000ca",
+		"name": "缝纫机_0000ca",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:16.340+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:16.340+00:00"
+	},
+	{
+		"thingId": "11FvveIrykU",
+		"userName": "DEU10ND_00150101ff0000c9",
+		"authToken": "c3810f5a77600e4f",
+		"assetId": "00150101ff0000c9",
+		"name": "缝纫机_0000c9",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:16.284+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:16.284+00:00"
+	},
+	{
+		"thingId": "11Fvvels2NG",
+		"userName": "DEU10ND_00150101ff0000c8",
+		"authToken": "47b0ddad97600303",
+		"assetId": "00150101ff0000c8",
+		"name": "缝纫机_0000c8",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:16.229+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:16.229+00:00"
+	},
+	{
+		"thingId": "11Fvve4ZjfW",
+		"userName": "DEU10ND_00150101ff0000c7",
+		"authToken": "d6fc17b2a7600800",
+		"assetId": "00150101ff0000c7",
+		"name": "缝纫机_0000c7",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:16.147+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:16.147+00:00"
+	},
+	{
+		"thingId": "11FvvdOOaQg",
+		"userName": "DEU10ND_00150101ff0000c6",
+		"authToken": "70554cc25660072f",
+		"assetId": "00150101ff0000c6",
+		"name": "缝纫机_0000c6",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:16.090+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:16.090+00:00"
+	},
+	{
+		"thingId": "11FvvdyUDyE",
+		"userName": "DEU10ND_00150101ff0000c5",
+		"authToken": "b45ac5297660031a",
+		"assetId": "00150101ff0000c5",
+		"name": "缝纫机_0000c5",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:16.033+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:16.033+00:00"
+	},
+	{
+		"thingId": "11FvvdirU0U",
+		"userName": "DEU10ND_00150101ff0000c4",
+		"authToken": "b2f28b13cc600d82",
+		"assetId": "00150101ff0000c4",
+		"name": "缝纫机_0000c4",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:15.976+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:15.976+00:00"
+	},
+	{
+		"thingId": "11Fvvd2ymJi",
+		"userName": "DEU10ND_00150101ff0000c3",
+		"authToken": "0107c67fbb60068e",
+		"assetId": "00150101ff0000c3",
+		"name": "缝纫机_0000c3",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:15.919+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:15.919+00:00"
+	},
+	{
+		"thingId": "11FvvcM5Dby",
+		"userName": "DEU10ND_00150101ff0000c2",
+		"authToken": "0f44b5bcfd600064",
+		"assetId": "00150101ff0000c2",
+		"name": "缝纫机_0000c2",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:15.862+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:15.862+00:00"
+	},
+	{
+		"thingId": "11FvvcvCTDO",
+		"userName": "DEU10ND_00150101ff0000c1",
+		"authToken": "19d868134f600000",
+		"assetId": "00150101ff0000c1",
+		"name": "缝纫机_0000c1",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:15.804+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:15.804+00:00"
+	},
+	{
+		"thingId": "11FvvcfrLe8",
+		"userName": "DEU10ND_00150101ff0000c0",
+		"authToken": "0594609c6460009b",
+		"assetId": "00150101ff0000c0",
+		"name": "缝纫机_0000c0",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:15.746+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:15.746+00:00"
+	},
+	{
+		"thingId": "11FvvbZgCOs",
+		"userName": "DEU10ND_00150101ff0000bf",
+		"authToken": "24cdf1ad6a600ee4",
+		"assetId": "00150101ff0000bf",
+		"name": "缝纫机_0000bf",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:15.690+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:15.690+00:00"
+	},
+	{
+		"thingId": "11FvvbJ5uoM",
+		"userName": "DEU10ND_00150101ff0000be",
+		"authToken": "eb7e562b3c600250",
+		"assetId": "00150101ff0000be",
+		"name": "缝纫机_0000be",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:15.632+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:15.632+00:00"
+	},
+	{
+		"thingId": "11FvvbsCKR2",
+		"userName": "DEU10ND_00150101ff0000bd",
+		"authToken": "3a8a69cc0e6008c2",
+		"assetId": "00150101ff0000bd",
+		"name": "缝纫机_0000bd",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:15.575+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:15.575+00:00"
+	},
+	{
+		"thingId": "11Fvvbd0OHu",
+		"userName": "DEU10ND_00150101ff0000bc",
+		"authToken": "298106247c60038f",
+		"assetId": "00150101ff0000bc",
+		"name": "缝纫机_0000bc",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:15.517+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:15.517+00:00"
+	},
+	{
+		"thingId": "11FvvaXGtG0",
+		"userName": "DEU10ND_00150101ff0000bb",
+		"authToken": "6b39171c8e600fd3",
+		"assetId": "00150101ff0000bb",
+		"name": "缝纫机_0000bb",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:15.463+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:15.463+00:00"
+	},
+	{
+		"thingId": "11FvvaI4xws",
+		"userName": "DEU10ND_00150101ff0000ba",
+		"authToken": "fcb8856494600f40",
+		"assetId": "00150101ff0000ba",
+		"name": "缝纫机_0000ba",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:15.408+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:15.408+00:00"
+	},
+	{
+		"thingId": "11FvvassBmU",
+		"userName": "DEU10ND_00150101ff0000b9",
+		"authToken": "ace9366a876004fd",
+		"assetId": "00150101ff0000b9",
+		"name": "缝纫机_0000b9",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:15.353+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:15.353+00:00"
+	},
+	{
+		"thingId": "11Fvvacz45i",
+		"userName": "DEU10ND_00150101ff0000b8",
+		"authToken": "bbc1d002a36005db",
+		"assetId": "00150101ff0000b8",
+		"name": "缝纫机_0000b8",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:15.299+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:15.299+00:00"
+	},
+	{
+		"thingId": "11Fvv9XNVjW",
+		"userName": "DEU10ND_00150101ff0000b7",
+		"authToken": "7a3c317a10600076",
+		"assetId": "00150101ff0000b7",
+		"name": "缝纫机_0000b7",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:15.243+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:15.243+00:00"
+	},
+	{
+		"thingId": "11Fvv9ItAis",
+		"userName": "DEU10ND_00150101ff0000b6",
+		"authToken": "9e580503b6600a39",
+		"assetId": "00150101ff0000b6",
+		"name": "缝纫机_0000b6",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:15.190+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:15.190+00:00"
+	},
+	{
+		"thingId": "11Fvv9t9fgY",
+		"userName": "DEU10ND_00150101ff0000b5",
+		"authToken": "ca857a3120600937",
+		"assetId": "00150101ff0000b5",
+		"name": "缝纫机_0000b5",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:15.137+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:15.137+00:00"
+	},
+	{
+		"thingId": "11Fvv9e6vny",
+		"userName": "DEU10ND_00150101ff0000b4",
+		"authToken": "8854eab76b600867",
+		"assetId": "00150101ff0000b4",
+		"name": "缝纫机_0000b4",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:15.083+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:15.083+00:00"
+	},
+	{
+		"thingId": "11Fvv8YMam4",
+		"userName": "DEU10ND_00150101ff0000b3",
+		"authToken": "b18f102a5a6008eb",
+		"assetId": "00150101ff0000b3",
+		"name": "缝纫机_0000b3",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:15.029+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:15.029+00:00"
+	},
+	{
+		"thingId": "11Fvv8JJqsE",
+		"userName": "DEU10ND_00150101ff0000b2",
+		"authToken": "6ce2a1df416007ae",
+		"assetId": "00150101ff0000b2",
+		"name": "缝纫机_0000b2",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:14.975+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:14.975+00:00"
+	},
+	{
+		"thingId": "11Fvv8uGGze",
+		"userName": "DEU10ND_00150101ff0000b1",
+		"authToken": "2c4771108f600d38",
+		"assetId": "00150101ff0000b1",
+		"name": "缝纫机_0000b1",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:14.922+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:14.922+00:00"
+	},
+	{
+		"thingId": "11Fvv8fDWFO",
+		"userName": "DEU10ND_00150101ff0000b0",
+		"authToken": "f57540b06b6001f8",
+		"assetId": "00150101ff0000b0",
+		"name": "缝纫机_0000b0",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:14.869+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:14.869+00:00"
+	},
+	{
+		"thingId": "11Fvv80BcMo",
+		"userName": "DEU10ND_00150101ff0000af",
+		"authToken": "cd7a05ab5c6000f2",
+		"assetId": "00150101ff0000af",
+		"name": "缝纫机_0000af",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:14.816+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:14.816+00:00"
+	},
+	{
+		"thingId": "11Fvv7LysSY",
+		"userName": "DEU10ND_00150101ff0000ae",
+		"authToken": "dd25be5449600e8c",
+		"assetId": "00150101ff0000ae",
+		"name": "缝纫机_0000ae",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:14.763+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:14.763+00:00"
+	},
+	{
+		"thingId": "11Fvv7wvIZy",
+		"userName": "DEU10ND_00150101ff0000ad",
+		"authToken": "82d5c6716b600349",
+		"assetId": "00150101ff0000ad",
+		"name": "缝纫机_0000ad",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:14.710+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:14.710+00:00"
+	},
+	{
+		"thingId": "11Fvv7gTMQ0",
+		"userName": "DEU10ND_00150101ff0000ac",
+		"authToken": "3cd91a71d7600307",
+		"assetId": "00150101ff0000ac",
+		"name": "缝纫机_0000ac",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:14.657+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:14.657+00:00"
+	},
+	{
+		"thingId": "11Fvv71R2WA",
+		"userName": "DEU10ND_00150101ff0000ab",
+		"authToken": "d8c16cdad4600e5e",
+		"assetId": "00150101ff0000ab",
+		"name": "缝纫机_0000ab",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:14.602+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:14.602+00:00"
+	},
+	{
+		"thingId": "11Fvv6N5Ube",
+		"userName": "DEU10ND_00150101ff0000aa",
+		"authToken": "34849e650260069d",
+		"assetId": "00150101ff0000aa",
+		"name": "缝纫机_0000aa",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:14.549+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:14.549+00:00"
+	},
+	{
+		"thingId": "11Fvv6xLz9K",
+		"userName": "DEU10ND_00150101ff0000a9",
+		"authToken": "87ee1ef0e5600348",
+		"assetId": "00150101ff0000a9",
+		"name": "缝纫机_0000a9",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:14.497+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:14.497+00:00"
+	},
+	{
+		"thingId": "11Fvv6iIPgk",
+		"userName": "DEU10ND_00150101ff0000a8",
+		"authToken": "f5f7481d68600108",
+		"assetId": "00150101ff0000a8",
+		"name": "缝纫机_0000a8",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:14.443+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:14.443+00:00"
+	},
+	{
+		"thingId": "11Fvv63G5mU",
+		"userName": "DEU10ND_00150101ff0000a7",
+		"authToken": "ed2322b969600d5a",
+		"assetId": "00150101ff0000a7",
+		"name": "缝纫机_0000a7",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:14.390+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:14.390+00:00"
+	},
+	{
+		"thingId": "11Fvv5ODltu",
+		"userName": "DEU10ND_00150101ff0000a6",
+		"authToken": "085a6c53ea6009d8",
+		"assetId": "00150101ff0000a6",
+		"name": "缝纫机_0000a6",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:14.337+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:14.337+00:00"
+	},
+	{
+		"thingId": "11Fvv5zABA4",
+		"userName": "DEU10ND_00150101ff0000a5",
+		"authToken": "1177394577600e2a",
+		"assetId": "00150101ff0000a5",
+		"name": "缝纫机_0000a5",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:14.284+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:14.284+00:00"
+	},
+	{
+		"thingId": "11Fvv5kPsOI",
+		"userName": "DEU10ND_00150101ff0000a4",
+		"authToken": "54c60a133c600e9f",
+		"assetId": "00150101ff0000a4",
+		"name": "缝纫机_0000a4",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:14.232+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:14.232+00:00"
+	},
+	{
+		"thingId": "11Fvv55MIVi",
+		"userName": "DEU10ND_00150101ff0000a3",
+		"authToken": "d422c69e6c600375",
+		"assetId": "00150101ff0000a3",
+		"name": "缝纫机_0000a3",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:14.180+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:14.180+00:00"
+	},
+	{
+		"thingId": "11Fvv4QJZ1S",
+		"userName": "DEU10ND_00150101ff0000a2",
+		"authToken": "05c1dd815c600a32",
+		"assetId": "00150101ff0000a2",
+		"name": "缝纫机_0000a2",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:14.127+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:14.127+00:00"
+	},
+	{
+		"thingId": "11Fvv4BpE0o",
+		"userName": "DEU10ND_00150101ff0000a1",
+		"authToken": "b75aa73574600152",
+		"assetId": "00150101ff0000a1",
+		"name": "缝纫机_0000a1",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:14.074+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:14.074+00:00"
+	},
+	{
+		"thingId": "11Fvv4mmU6Y",
+		"userName": "DEU10ND_00150101ff0000a0",
+		"authToken": "f7af5c67c8600bef",
+		"assetId": "00150101ff0000a0",
+		"name": "缝纫机_0000a0",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:14.020+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:14.020+00:00"
+	},
+	{
+		"thingId": "11Fvv47kady",
+		"userName": "DEU10ND_00150101ff00009f",
+		"authToken": "b2ba696d11600de1",
+		"assetId": "00150101ff00009f",
+		"name": "缝纫机_00009f",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:13.966+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:13.966+00:00"
+	},
+	{
+		"thingId": "11Fvv3RZPc4",
+		"userName": "DEU10ND_00150101ff00009e",
+		"authToken": "127ca6e241600ceb",
+		"assetId": "00150101ff00009e",
+		"name": "缝纫机_00009e",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:13.913+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:13.913+00:00"
+	},
+	{
+		"thingId": "11Fvv3CX5iE",
+		"userName": "DEU10ND_00150101ff00009d",
+		"authToken": "efa9501a5160007e",
+		"assetId": "00150101ff00009d",
+		"name": "缝纫机_00009d",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:13.860+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:13.860+00:00"
+	},
+	{
+		"thingId": "11Fvv3nl996",
+		"userName": "DEU10ND_00150101ff00009c",
+		"authToken": "587ce1fe916002a9",
+		"assetId": "00150101ff00009c",
+		"name": "缝纫机_00009c",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:13.806+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:13.806+00:00"
+	},
+	{
+		"thingId": "11Fvv38ipfG",
+		"userName": "DEU10ND_00150101ff00009b",
+		"authToken": "621119bac36005ff",
+		"assetId": "00150101ff00009b",
+		"name": "缝纫机_00009b",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:13.752+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:13.752+00:00"
+	},
+	{
+		"thingId": "11Fvv2TfFmg",
+		"userName": "DEU10ND_00150101ff00009a",
+		"authToken": "d07ce79ded60000e",
+		"assetId": "00150101ff00009a",
+		"name": "缝纫机_00009a",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:13.699+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:13.699+00:00"
+	},
+	{
+		"thingId": "11Fvv2EcVsQ",
+		"userName": "DEU10ND_00150101ff000099",
+		"authToken": "6b7d45b01a600932",
+		"assetId": "00150101ff000099",
+		"name": "缝纫机_000099",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:13.646+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:13.646+00:00"
+	},
+	{
+		"thingId": "11Fvv2oSArm",
+		"userName": "DEU10ND_00150101ff000098",
+		"authToken": "9fd53c0d0f600f0a",
+		"assetId": "00150101ff000098",
+		"name": "缝纫机_000098",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:13.592+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:13.592+00:00"
+	},
+	{
+		"thingId": "11Fvv29PQxW",
+		"userName": "DEU10ND_00150101ff000097",
+		"authToken": "ba983c6bbb600982",
+		"assetId": "00150101ff000097",
+		"name": "缝纫机_000097",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:13.538+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:13.538+00:00"
+	},
+	{
+		"thingId": "11Fvv1UN6Ew",
+		"userName": "DEU10ND_00150101ff000096",
+		"authToken": "16da042fdf600ab9",
+		"assetId": "00150101ff000096",
+		"name": "缝纫机_000096",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:13.486+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:13.486+00:00"
+	},
+	{
+		"thingId": "11Fvv1FKmL6",
+		"userName": "DEU10ND_00150101ff000095",
+		"authToken": "fa2c36f2d0600d9e",
+		"assetId": "00150101ff000095",
+		"name": "缝纫机_000095",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:13.432+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:13.432+00:00"
+	},
+	{
+		"thingId": "11Fvv1qHCRG",
+		"userName": "DEU10ND_00150101ff000094",
+		"authToken": "db6ae0361d600c3d",
+		"assetId": "00150101ff000094",
+		"name": "缝纫机_000094",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:13.379+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:13.379+00:00"
+	},
+	{
+		"thingId": "11Fvv1bESYg",
+		"userName": "DEU10ND_00150101ff000093",
+		"authToken": "09021df4ca600664",
+		"assetId": "00150101ff000093",
+		"name": "缝纫机_000093",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:13.326+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:13.326+00:00"
+	},
+	{
+		"thingId": "11Fvv0VLlGE",
+		"userName": "DEU10ND_00150101ff000092",
+		"authToken": "efc5a3ae2160057d",
+		"assetId": "00150101ff000092",
+		"name": "缝纫机_000092",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:13.273+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:13.273+00:00"
+	},
+	{
+		"thingId": "11Fvv0GIBNe",
+		"userName": "DEU10ND_00150101ff000091",
+		"authToken": "9ae4785530600ae7",
+		"assetId": "00150101ff000091",
+		"name": "缝纫机_000091",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:13.218+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:13.218+00:00"
+	},
+	{
+		"thingId": "11Fvv0rogLK",
+		"userName": "DEU10ND_00150101ff000090",
+		"authToken": "7ae025d255600705",
+		"assetId": "00150101ff000090",
+		"name": "缝纫机_000090",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:13.164+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:13.164+00:00"
+	},
+	{
+		"thingId": "11Fvv0cD80o",
+		"userName": "DEU10ND_00150101ff00008f",
+		"authToken": "bbf1a3e67b600a4e",
+		"assetId": "00150101ff00008f",
+		"name": "缝纫机_00008f",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:13.111+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:13.111+00:00"
+	},
+	{
+		"thingId": "11FvuZXAo6Y",
+		"userName": "DEU10ND_00150101ff00008e",
+		"authToken": "11250fb82c600216",
+		"assetId": "00150101ff00008e",
+		"name": "缝纫机_00008e",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:13.058+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:13.058+00:00"
+	},
+	{
+		"thingId": "11FvuZIg35u",
+		"userName": "DEU10ND_00150101ff00008d",
+		"authToken": "3e30abd0066007c1",
+		"assetId": "00150101ff00008d",
+		"name": "缝纫机_00008d",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:13.006+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:13.006+00:00"
+	},
+	{
+		"thingId": "11FvuZtdjc4",
+		"userName": "DEU10ND_00150101ff00008c",
+		"authToken": "05b4853aa0600758",
+		"assetId": "00150101ff00008c",
+		"name": "缝纫机_00008c",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:12.952+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:12.952+00:00"
+	},
+	{
+		"thingId": "11FvuZeaziE",
+		"userName": "DEU10ND_00150101ff00008b",
+		"authToken": "5c4d5ae7cb600aa7",
+		"assetId": "00150101ff00008b",
+		"name": "缝纫机_00008b",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:12.899+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:12.899+00:00"
+	},
+	{
+		"thingId": "11FvuYYyD96",
+		"userName": "DEU10ND_00150101ff00008a",
+		"authToken": "e8c76f62cb6003c0",
+		"assetId": "00150101ff00008a",
+		"name": "缝纫机_00008a",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:12.845+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:12.845+00:00"
+	},
+	{
+		"thingId": "11FvuYJNunK",
+		"userName": "DEU10ND_00150101ff000089",
+		"authToken": "18e9279a5f6009f1",
+		"assetId": "00150101ff000089",
+		"name": "缝纫机_000089",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:12.790+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:12.790+00:00"
+	},
+	{
+		"thingId": "11FvuYuKKuk",
+		"userName": "DEU10ND_00150101ff000088",
+		"authToken": "1ef10db214600d52",
+		"assetId": "00150101ff000088",
+		"name": "缝纫机_000088",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:12.738+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:12.738+00:00"
+	},
+	{
+		"thingId": "11FvuYfI0AU",
+		"userName": "DEU10ND_00150101ff000087",
+		"authToken": "3bc457a2616002a2",
+		"assetId": "00150101ff000087",
+		"name": "缝纫机_000087",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:12.685+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:12.685+00:00"
+	},
+	{
+		"thingId": "11FvuY0FgHu",
+		"userName": "DEU10ND_00150101ff000086",
+		"authToken": "f3de6812b0600d61",
+		"assetId": "00150101ff000086",
+		"name": "缝纫机_000086",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:12.632+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:12.632+00:00"
+	},
+	{
+		"thingId": "11FvuXLkVG0",
+		"userName": "DEU10ND_00150101ff000085",
+		"authToken": "51e462d2126000bb",
+		"assetId": "00150101ff000085",
+		"name": "缝纫机_000085",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:12.579+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:12.579+00:00"
+	},
+	{
+		"thingId": "11FvuXvrooo",
+		"userName": "DEU10ND_00150101ff000084",
+		"authToken": "9fde2b9cd660099d",
+		"assetId": "00150101ff000084",
+		"name": "缝纫机_000084",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:12.526+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:12.526+00:00"
+	},
+	{
+		"thingId": "11FvuXeYEQE",
+		"userName": "DEU10ND_00150101ff000083",
+		"authToken": "e7aafd45d7600aab",
+		"assetId": "00150101ff000083",
+		"name": "缝纫机_000083",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:12.470+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:12.470+00:00"
+	},
+	{
+		"thingId": "11FvuWYNwqY",
+		"userName": "DEU10ND_00150101ff000082",
+		"authToken": "9f677380a9600639",
+		"assetId": "00150101ff000082",
+		"name": "缝纫机_000082",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:12.411+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:12.411+00:00"
+	},
+	{
+		"thingId": "11FvuWICo1i",
+		"userName": "DEU10ND_00150101ff000081",
+		"authToken": "4cfa57a7a9600264",
+		"assetId": "00150101ff000081",
+		"name": "缝纫机_000081",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:12.354+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:12.354+00:00"
+	},
+	{
+		"thingId": "11FvuWsrfBC",
+		"userName": "DEU10ND_00150101ff000080",
+		"authToken": "497fd9732c60064d",
+		"assetId": "00150101ff000080",
+		"name": "缝纫机_000080",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:12.297+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:12.297+00:00"
+	},
+	{
+		"thingId": "11FvuWcg7bW",
+		"userName": "DEU10ND_00150101ff00007f",
+		"authToken": "b640ba1fcb60053a",
+		"assetId": "00150101ff00007f",
+		"name": "缝纫机_00007f",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:12.240+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:12.240+00:00"
+	},
+	{
+		"thingId": "11FvuVVNnEc",
+		"userName": "DEU10ND_00150101ff00007e",
+		"authToken": "420f59999a600087",
+		"assetId": "00150101ff00007e",
+		"name": "缝纫机_00007e",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:12.183+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:12.183+00:00"
+	},
+	{
+		"thingId": "11FvuVFCfew",
+		"userName": "DEU10ND_00150101ff00007d",
+		"authToken": "630c0c904760093e",
+		"assetId": "00150101ff00007d",
+		"name": "缝纫机_00007d",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:12.125+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:12.125+00:00"
+	},
+	{
+		"thingId": "11FvuVpr6OQ",
+		"userName": "DEU10ND_00150101ff00007c",
+		"authToken": "f7b0c3cf1d6008ff",
+		"assetId": "00150101ff00007c",
+		"name": "缝纫机_00007c",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:12.068+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:12.068+00:00"
+	},
+	{
+		"thingId": "11FvuV9xzxe",
+		"userName": "DEU10ND_00150101ff00007b",
+		"authToken": "44bad69beb600e0d",
+		"assetId": "00150101ff00007b",
+		"name": "缝纫机_00007b",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:12.012+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:12.012+00:00"
+	},
+	{
+		"thingId": "11FvuUTmr7y",
+		"userName": "DEU10ND_00150101ff00007a",
+		"authToken": "6082755fc7600b4d",
+		"assetId": "00150101ff00007a",
+		"name": "缝纫机_00007a",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:11.956+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:11.956+00:00"
+	},
+	{
+		"thingId": "11FvuUDbiHS",
+		"userName": "DEU10ND_00150101ff000079",
+		"authToken": "a455eb9629600ffa",
+		"assetId": "00150101ff000079",
+		"name": "缝纫机_000079",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:11.899+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:11.899+00:00"
+	},
+	{
+		"thingId": "11FvuUn0aic",
+		"userName": "DEU10ND_00150101ff000078",
+		"authToken": "1d625d93e36004ac",
+		"assetId": "00150101ff000078",
+		"name": "缝纫机_000078",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:11.841+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:11.841+00:00"
+	},
+	{
+		"thingId": "11FvuU6P1Sw",
+		"userName": "DEU10ND_00150101ff000077",
+		"authToken": "eb0852d35960020e",
+		"assetId": "00150101ff000077",
+		"name": "缝纫机_000077",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:11.784+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:11.784+00:00"
+	},
+	{
+		"thingId": "11FvuTRd5IY",
+		"userName": "DEU10ND_00150101ff000076",
+		"authToken": "4acdc99173600be3",
+		"assetId": "00150101ff000076",
+		"name": "缝纫机_000076",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:11.727+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:11.727+00:00"
+	},
+	{
+		"thingId": "11FvuTB1Xji",
+		"userName": "DEU10ND_00150101ff000075",
+		"authToken": "1d6bf5aaf1600177",
+		"assetId": "00150101ff000075",
+		"name": "缝纫机_000075",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:11.673+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:11.673+00:00"
+	},
+	{
+		"thingId": "11FvuTl8q1G",
+		"userName": "DEU10ND_00150101ff000074",
+		"authToken": "cd52312ae36001e4",
+		"assetId": "00150101ff000074",
+		"name": "缝纫机_000074",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:11.616+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:11.616+00:00"
+	},
+	{
+		"thingId": "11FvuT4XhC0",
+		"userName": "DEU10ND_00150101ff000073",
+		"authToken": "5ca86dfc836004ce",
+		"assetId": "00150101ff000073",
+		"name": "缝纫机_000073",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:11.559+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:11.559+00:00"
+	},
+	{
+		"thingId": "11FvuSPCWAw",
+		"userName": "DEU10ND_00150101ff000072",
+		"authToken": "dcbedd04226008fe",
+		"assetId": "00150101ff000072",
+		"name": "缝纫机_000072",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:11.502+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:11.502+00:00"
+	},
+	{
+		"thingId": "11FvuSA10qY",
+		"userName": "DEU10ND_00150101ff000071",
+		"authToken": "964c79161c600432",
+		"assetId": "00150101ff000071",
+		"name": "缝纫机_000071",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:11.448+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:11.448+00:00"
+	},
+	{
+		"thingId": "11FvuSkp4hq",
+		"userName": "DEU10ND_00150101ff000070",
+		"authToken": "29de60503d60068f",
+		"assetId": "00150101ff000070",
+		"name": "缝纫机_000070",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:11.394+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:11.394+00:00"
+	},
+	{
+		"thingId": "11FvuS5mko0",
+		"userName": "DEU10ND_00150101ff00006f",
+		"authToken": "7b8699cdba600b27",
+		"assetId": "00150101ff00006f",
+		"name": "缝纫机_00006f",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:11.339+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:11.339+00:00"
+	},
+	{
+		"thingId": "11FvuRPbbYk",
+		"userName": "DEU10ND_00150101ff00006e",
+		"authToken": "7550fed1a7600614",
+		"assetId": "00150101ff00006e",
+		"name": "缝纫机_00006e",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:11.285+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:11.285+00:00"
+	},
+	{
+		"thingId": "11FvuRzQQWQ",
+		"userName": "DEU10ND_00150101ff00006d",
+		"authToken": "70e0c6f0c3600eb8",
+		"assetId": "00150101ff00006d",
+		"name": "缝纫机_00006d",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:11.228+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:11.228+00:00"
+	},
+	{
+		"thingId": "11FvuRjXjFe",
+		"userName": "DEU10ND_00150101ff00006c",
+		"authToken": "b16627baea600c13",
+		"assetId": "00150101ff00006c",
+		"name": "缝纫机_00006c",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:11.174+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:11.174+00:00"
+	},
+	{
+		"thingId": "11FvuR4lnvG",
+		"userName": "DEU10ND_00150101ff00006b",
+		"authToken": "254b143c5f600e9a",
+		"assetId": "00150101ff00006b",
+		"name": "缝纫机_00006b",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:11.119+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:11.119+00:00"
+	},
+	{
+		"thingId": "11FvuQOJrm8",
+		"userName": "DEU10ND_00150101ff00006a",
+		"authToken": "f1ae09756260040a",
+		"assetId": "00150101ff00006a",
+		"name": "缝纫机_00006a",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:11.063+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:11.063+00:00"
+	},
+	{
+		"thingId": "11FvuQz7vcA",
+		"userName": "DEU10ND_00150101ff000069",
+		"authToken": "4a685072b5600e20",
+		"assetId": "00150101ff000069",
+		"name": "缝纫机_000069",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:11.008+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:11.008+00:00"
+	},
+	{
+		"thingId": "11FvuQiWmMU",
+		"userName": "DEU10ND_00150101ff000068",
+		"authToken": "f03968841f600991",
+		"assetId": "00150101ff000068",
+		"name": "缝纫机_000068",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:10.954+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:10.954+00:00"
+	},
+	{
+		"thingId": "11FvuQ2c276",
+		"userName": "DEU10ND_00150101ff000067",
+		"authToken": "5dbbb8d311600622",
+		"assetId": "00150101ff000067",
+		"name": "缝纫机_000067",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:10.896+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:10.896+00:00"
+	},
+	{
+		"thingId": "11FvuPMA5Xy",
+		"userName": "DEU10ND_00150101ff000066",
+		"authToken": "a698c45649600dcb",
+		"assetId": "00150101ff000066",
+		"name": "缝纫机_000066",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:10.837+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:10.837+00:00"
+	},
+	{
+		"thingId": "11FvuPxxm48",
+		"userName": "DEU10ND_00150101ff000065",
+		"authToken": "c6bff3310b600eb3",
+		"assetId": "00150101ff000065",
+		"name": "缝纫机_000065",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:10.782+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:10.782+00:00"
+	},
+	{
+		"thingId": "11FvuPiuCaI",
+		"userName": "DEU10ND_00150101ff000064",
+		"authToken": "f3b7eb88b2600c0d",
+		"assetId": "00150101ff000064",
+		"name": "缝纫机_000064",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:10.730+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:10.730+00:00"
+	},
+	{
+		"thingId": "11FvuP3ah9e",
+		"userName": "DEU10ND_00150101ff000063",
+		"authToken": "3717f2813060042f",
+		"assetId": "00150101ff000063",
+		"name": "缝纫机_000063",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:10.676+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:10.676+00:00"
+	},
+	{
+		"thingId": "11FvuOO7xfO",
+		"userName": "DEU10ND_00150101ff000062",
+		"authToken": "f55719e4886001a0",
+		"assetId": "00150101ff000062",
+		"name": "缝纫机_000062",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:10.622+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:10.622+00:00"
+	},
+	{
+		"thingId": "11FvuOz4Nmo",
+		"userName": "DEU10ND_00150101ff000061",
+		"authToken": "f5f4c99110600b2e",
+		"assetId": "00150101ff000061",
+		"name": "缝纫机_000061",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:10.570+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:10.570+00:00"
+	},
+	{
+		"thingId": "11FvuOjKskU",
+		"userName": "DEU10ND_00150101ff000060",
+		"authToken": "8a9f80088b60006f",
+		"assetId": "00150101ff000060",
+		"name": "缝纫机_000060",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:10.516+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:10.516+00:00"
+	},
+	{
+		"thingId": "11FvuO4HIru",
+		"userName": "DEU10ND_00150101ff00005f",
+		"authToken": "75c38936b96000b4",
+		"assetId": "00150101ff00005f",
+		"name": "缝纫机_00005f",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:10.462+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:10.462+00:00"
+	},
+	{
+		"thingId": "11FvuNPEYy4",
+		"userName": "DEU10ND_00150101ff00005e",
+		"authToken": "1701dfedba6002ec",
+		"assetId": "00150101ff00005e",
+		"name": "缝纫机_00005e",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:10.409+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:10.409+00:00"
+	},
+	{
+		"thingId": "11FvuNACeEE",
+		"userName": "DEU10ND_00150101ff00005d",
+		"authToken": "1601d8f154600f98",
+		"assetId": "00150101ff00005d",
+		"name": "缝纫机_00005d",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:10.356+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:10.356+00:00"
+	},
+	{
+		"thingId": "11FvuNkr6eY",
+		"userName": "DEU10ND_00150101ff00005c",
+		"authToken": "b0ccc3ea29600c02",
+		"assetId": "00150101ff00005c",
+		"name": "缝纫机_00005c",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:10.303+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:10.303+00:00"
+	},
+	{
+		"thingId": "11FvuN5omly",
+		"userName": "DEU10ND_00150101ff00005b",
+		"authToken": "4aba5bbc8b600ec3",
+		"assetId": "00150101ff00005b",
+		"name": "缝纫机_00005b",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:10.247+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:10.247+00:00"
+	},
+	{
+		"thingId": "11FvuMQlCs8",
+		"userName": "DEU10ND_00150101ff00005a",
+		"authToken": "4d26c683a4600c23",
+		"assetId": "00150101ff00005a",
+		"name": "缝纫机_00005a",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:10.193+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:10.193+00:00"
+	},
+	{
+		"thingId": "11FvuMBiSyI",
+		"userName": "DEU10ND_00150101ff000059",
+		"authToken": "f411149ec660070b",
+		"assetId": "00150101ff000059",
+		"name": "缝纫机_000059",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:10.141+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:10.141+00:00"
+	},
+	{
+		"thingId": "11FvuMlGWpa",
+		"userName": "DEU10ND_00150101ff000058",
+		"authToken": "f192a0ec06600f47",
+		"assetId": "00150101ff000058",
+		"name": "缝纫机_000058",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:10.088+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:10.088+00:00"
+	},
+	{
+		"thingId": "11FvuM6mBnG",
+		"userName": "DEU10ND_00150101ff000057",
+		"authToken": "be2db2bfc460023d",
+		"assetId": "00150101ff000057",
+		"name": "缝纫机_000057",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:10.032+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:10.032+00:00"
+	},
+	{
+		"thingId": "11FvuLR2gmc",
+		"userName": "DEU10ND_00150101ff000056",
+		"authToken": "484ce35c4c6007d9",
+		"assetId": "00150101ff000056",
+		"name": "缝纫机_000056",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:09.979+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:09.979+00:00"
+	},
+	{
+		"thingId": "11FvuLB8J4A",
+		"userName": "DEU10ND_00150101ff000055",
+		"authToken": "1f5df639b2600902",
+		"assetId": "00150101ff000055",
+		"name": "缝纫机_000055",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:09.924+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:09.924+00:00"
+	},
+	{
+		"thingId": "11FvuLlfbMY",
+		"userName": "DEU10ND_00150101ff000054",
+		"authToken": "d8a18bd0e7600b29",
+		"assetId": "00150101ff000054",
+		"name": "缝纫机_000054",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:09.868+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:09.868+00:00"
+	},
+	{
+		"thingId": "11FvuL5DfDq",
+		"userName": "DEU10ND_00150101ff000053",
+		"authToken": "adaff516f960027e",
+		"assetId": "00150101ff000053",
+		"name": "缝纫机_000053",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:09.812+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:09.812+00:00"
+	},
+	{
+		"thingId": "11FvuKQiUBW",
+		"userName": "DEU10ND_00150101ff000052",
+		"authToken": "2778e7b971600846",
+		"assetId": "00150101ff000052",
+		"name": "缝纫机_000052",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:09.758+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:09.758+00:00"
+	},
+	{
+		"thingId": "11FvuKAYzAs",
+		"userName": "DEU10ND_00150101ff000051",
+		"authToken": "8a6f3fe80c6001db",
+		"assetId": "00150101ff000051",
+		"name": "缝纫机_000051",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:09.704+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:09.704+00:00"
+	},
+	{
+		"thingId": "11FvuKlVPH2",
+		"userName": "DEU10ND_00150101ff000050",
+		"authToken": "ef123fa56c600ae6",
+		"assetId": "00150101ff000050",
+		"name": "缝纫机_000050",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:09.649+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:09.649+00:00"
+	},
+	{
+		"thingId": "11FvuK6T5NC",
+		"userName": "DEU10ND_00150101ff00004f",
+		"authToken": "a4b4c365b5600031",
+		"assetId": "00150101ff00004f",
+		"name": "缝纫机_00004f",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:09.597+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:09.597+00:00"
+	},
+	{
+		"thingId": "11FvuJRQlUc",
+		"userName": "DEU10ND_00150101ff00004e",
+		"authToken": "44921d4970600fd5",
+		"assetId": "00150101ff00004e",
+		"name": "缝纫机_00004e",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:09.543+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:09.543+00:00"
+	},
+	{
+		"thingId": "11FvuJCNC0M",
+		"userName": "DEU10ND_00150101ff00004d",
+		"authToken": "e603ae1be9600b31",
+		"assetId": "00150101ff00004d",
+		"name": "缝纫机_00004d",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:09.491+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:09.491+00:00"
+	},
+	{
+		"thingId": "11FvuJo2tfq",
+		"userName": "DEU10ND_00150101ff00004c",
+		"authToken": "a6751a5e376008a9",
+		"assetId": "00150101ff00004c",
+		"name": "缝纫机_00004c",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:09.438+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:09.438+00:00"
+	},
+	{
+		"thingId": "11FvuJ8I8dW",
+		"userName": "DEU10ND_00150101ff00004b",
+		"authToken": "7694684ec8600050",
+		"assetId": "00150101ff00004b",
+		"name": "缝纫机_00004b",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:09.385+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:09.385+00:00"
+	},
+	{
+		"thingId": "11FvuIT6c4o",
+		"userName": "DEU10ND_00150101ff00004a",
+		"authToken": "a238c9bd296002a8",
+		"assetId": "00150101ff00004a",
+		"name": "缝纫机_00004a",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:09.331+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:09.331+00:00"
+	},
+	{
+		"thingId": "11FvuIDLR2U",
+		"userName": "DEU10ND_00150101ff000049",
+		"authToken": "1fec269079600875",
+		"assetId": "00150101ff000049",
+		"name": "缝纫机_000049",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:09.276+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:09.276+00:00"
+	},
+	{
+		"thingId": "11FvuIp0Ihy",
+		"userName": "DEU10ND_00150101ff000048",
+		"authToken": "5b78a8efde600e51",
+		"assetId": "00150101ff000048",
+		"name": "缝纫机_000048",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:09.223+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:09.223+00:00"
+	},
+	{
+		"thingId": "11FvuIafzwc",
+		"userName": "DEU10ND_00150101ff000047",
+		"authToken": "849d46404a6006a5",
+		"assetId": "00150101ff000047",
+		"name": "缝纫机_000047",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:09.171+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:09.171+00:00"
+	},
+	{
+		"thingId": "11FvuHUDDmE",
+		"userName": "DEU10ND_00150101ff000046",
+		"authToken": "6b26e361d76003bb",
+		"assetId": "00150101ff000046",
+		"name": "缝纫机_000046",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:09.118+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:09.118+00:00"
+	},
+	{
+		"thingId": "11FvuHFjila",
+		"userName": "DEU10ND_00150101ff000045",
+		"authToken": "0d7d024ebd60011e",
+		"assetId": "00150101ff000045",
+		"name": "缝纫机_000045",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:09.064+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:09.064+00:00"
+	},
+	{
+		"thingId": "11FvuHppL3y",
+		"userName": "DEU10ND_00150101ff000044",
+		"authToken": "2bb9ce1811600ce4",
+		"assetId": "00150101ff000044",
+		"name": "缝纫机_000044",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:09.009+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:09.009+00:00"
+	},
+	{
+		"thingId": "11FvuH9NOU0",
+		"userName": "DEU10ND_00150101ff000043",
+		"authToken": "20db5d4800600313",
+		"assetId": "00150101ff000043",
+		"name": "缝纫机_000043",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:08.954+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:08.954+00:00"
+	},
+	{
+		"thingId": "11FvuGUbSKs",
+		"userName": "DEU10ND_00150101ff000042",
+		"authToken": "2b8b97ac3b600cdd",
+		"assetId": "00150101ff000042",
+		"name": "缝纫机_000042",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:08.899+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:08.899+00:00"
+	},
+	{
+		"thingId": "11FvuGEilsQ",
+		"userName": "DEU10ND_00150101ff000041",
+		"authToken": "4f3df55cbb6006ec",
+		"assetId": "00150101ff000041",
+		"name": "缝纫机_000041",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:08.843+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:08.843+00:00"
+	},
+	{
+		"thingId": "11FvuGooObe",
+		"userName": "DEU10ND_00150101ff000040",
+		"authToken": "9602b733726007c4",
+		"assetId": "00150101ff000040",
+		"name": "缝纫机_000040",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:08.787+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:08.787+00:00"
+	},
+	{
+		"thingId": "11FvuG8vgTC",
+		"userName": "DEU10ND_00150101ff00003f",
+		"authToken": "21e145715960042e",
+		"assetId": "00150101ff00003f",
+		"name": "缝纫机_00003f",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:08.731+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:08.731+00:00"
+	},
+	{
+		"thingId": "11FvuFSTkK4",
+		"userName": "DEU10ND_00150101ff00003e",
+		"authToken": "40a4e036006001af",
+		"assetId": "00150101ff00003e",
+		"name": "缝纫机_00003e",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:08.676+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:08.676+00:00"
+	},
+	{
+		"thingId": "11FvuFDhoAw",
+		"userName": "DEU10ND_00150101ff00003d",
+		"authToken": "80d38b4b18600d05",
+		"assetId": "00150101ff00003d",
+		"name": "缝纫机_00003d",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:08.620+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:08.620+00:00"
+	},
+	{
+		"thingId": "11FvuFnFsqY",
+		"userName": "DEU10ND_00150101ff00003c",
+		"authToken": "27397fa224600169",
+		"assetId": "00150101ff00003c",
+		"name": "缝纫机_00003c",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:08.566+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:08.566+00:00"
+	},
+	{
+		"thingId": "11FvuF7uk1i",
+		"userName": "DEU10ND_00150101ff00003b",
+		"authToken": "81e330cf376002c4",
+		"assetId": "00150101ff00003b",
+		"name": "缝纫机_00003b",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:08.509+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:08.509+00:00"
+	},
+	{
+		"thingId": "11FvuERAMJG",
+		"userName": "DEU10ND_00150101ff00003a",
+		"authToken": "9febf594696006ee",
+		"assetId": "00150101ff00003a",
+		"name": "缝纫机_00003a",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:08.454+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:08.454+00:00"
+	},
+	{
+		"thingId": "11FvuEBYQA8",
+		"userName": "DEU10ND_00150101ff000039",
+		"authToken": "026a00ea9b60084d",
+		"assetId": "00150101ff000039",
+		"name": "缝纫机_000039",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:08.397+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:08.397+00:00"
+	},
+	{
+		"thingId": "11FvuEmmUqA",
+		"userName": "DEU10ND_00150101ff000038",
+		"authToken": "2fe4cc5d29600a95",
+		"assetId": "00150101ff000038",
+		"name": "缝纫机_000038",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:08.342+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:08.342+00:00"
+	},
+	{
+		"thingId": "11FvuE7kaxa",
+		"userName": "DEU10ND_00150101ff000037",
+		"authToken": "5ec90983a5600414",
+		"assetId": "00150101ff000037",
+		"name": "缝纫机_000037",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:08.287+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:08.287+00:00"
+	},
+	{
+		"thingId": "11FvuDSz1LO",
+		"userName": "DEU10ND_00150101ff000036",
+		"authToken": "3a748c767060075d",
+		"assetId": "00150101ff000036",
+		"name": "缝纫机_000036",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:08.235+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:08.235+00:00"
+	},
+	{
+		"thingId": "11FvuDDNT0s",
+		"userName": "DEU10ND_00150101ff000035",
+		"authToken": "4b9ae13d466009cd",
+		"assetId": "00150101ff000035",
+		"name": "缝纫机_000035",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:08.183+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:08.183+00:00"
+	},
+	{
+		"thingId": "11FvuDpklna",
+		"userName": "DEU10ND_00150101ff000034",
+		"authToken": "d3c67d0a976006ef",
+		"assetId": "00150101ff000034",
+		"name": "缝纫机_000034",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:08.131+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:08.131+00:00"
+	},
+	{
+		"thingId": "11FvuDahBtK",
+		"userName": "DEU10ND_00150101ff000033",
+		"authToken": "c1d1e4fc026008fc",
+		"assetId": "00150101ff000033",
+		"name": "缝纫机_000033",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:08.079+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:08.079+00:00"
+	},
+	{
+		"thingId": "11FvuCVwsIo",
+		"userName": "DEU10ND_00150101ff000032",
+		"authToken": "c24eb6da576008ec",
+		"assetId": "00150101ff000032",
+		"name": "缝纫机_000032",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:08.026+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:08.026+00:00"
+	},
+	{
+		"thingId": "11FvuCGtIOY",
+		"userName": "DEU10ND_00150101ff000031",
+		"authToken": "ba9202a29b6002ef",
+		"assetId": "00150101ff000031",
+		"name": "缝纫机_000031",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:07.974+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:07.974+00:00"
+	},
+	{
+		"thingId": "11FvuCr9nNu",
+		"userName": "DEU10ND_00150101ff000030",
+		"authToken": "6b45e43d6660042c",
+		"assetId": "00150101ff000030",
+		"name": "缝纫机_000030",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:07.921+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:07.921+00:00"
+	},
+	{
+		"thingId": "11FvuCc6DU4",
+		"userName": "DEU10ND_00150101ff00002f",
+		"authToken": "95835c2a8d600f55",
+		"assetId": "00150101ff00002f",
+		"name": "缝纫机_00002f",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:07.868+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:07.868+00:00"
+	},
+	{
+		"thingId": "11FvuBX3U0E",
+		"userName": "DEU10ND_00150101ff00002e",
+		"authToken": "d62ab5bbe4600a4d",
+		"assetId": "00150101ff00002e",
+		"name": "缝纫机_00002e",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:07.814+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:07.814+00:00"
+	},
+	{
+		"thingId": "11FvuBIiLfi",
+		"userName": "DEU10ND_00150101ff00002d",
+		"authToken": "79bef6404d600ee3",
+		"assetId": "00150101ff00002d",
+		"name": "缝纫机_00002d",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:07.762+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:07.762+00:00"
+	},
+	{
+		"thingId": "11FvuBsGP5K",
+		"userName": "DEU10ND_00150101ff00002c",
+		"authToken": "1165d8cc15600c29",
+		"assetId": "00150101ff00002c",
+		"name": "缝纫机_00002c",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:07.709+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:07.709+00:00"
+	},
+	{
+		"thingId": "11FvuBdE5ck",
+		"userName": "DEU10ND_00150101ff00002b",
+		"authToken": "b25ea7a042600ec8",
+		"assetId": "00150101ff00002b",
+		"name": "缝纫机_00002b",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:07.654+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:07.654+00:00"
+	},
+	{
+		"thingId": "11FvuAYjKaQ",
+		"userName": "DEU10ND_00150101ff00002a",
+		"authToken": "0b24d4f6ec600d3c",
+		"assetId": "00150101ff00002a",
+		"name": "缝纫机_00002a",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:07.601+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:07.601+00:00"
+	},
+	{
+		"thingId": "11FvuAJyBpu",
+		"userName": "DEU10ND_00150101ff000029",
+		"authToken": "a506daefb7600394",
+		"assetId": "00150101ff000029",
+		"name": "缝纫机_000029",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:07.548+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:07.548+00:00"
+	},
+	{
+		"thingId": "11FvuAuego0",
+		"userName": "DEU10ND_00150101ff000028",
+		"authToken": "4bd8ff50eb60064e",
+		"assetId": "00150101ff000028",
+		"name": "缝纫机_000028",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:07.495+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:07.495+00:00"
+	},
+	{
+		"thingId": "11FvuAeTVmw",
+		"userName": "DEU10ND_00150101ff000027",
+		"authToken": "4073e7a94e60056d",
+		"assetId": "00150101ff000027",
+		"name": "缝纫机_000027",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:07.441+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:07.441+00:00"
+	},
+	{
+		"thingId": "11FvuzZRbt6",
+		"userName": "DEU10ND_00150101ff000026",
+		"authToken": "84f17d4c83600198",
+		"assetId": "00150101ff000026",
+		"name": "缝纫机_000026",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:07.388+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:07.388+00:00"
+	},
+	{
+		"thingId": "11FvuzKffjy",
+		"userName": "DEU10ND_00150101ff000025",
+		"authToken": "9c19b49459600473",
+		"assetId": "00150101ff000025",
+		"name": "缝纫机_000025",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:07.334+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:07.334+00:00"
+	},
+	{
+		"thingId": "11FvuzuUUi4",
+		"userName": "DEU10ND_00150101ff000024",
+		"authToken": "106a32770f60093d",
+		"assetId": "00150101ff000024",
+		"name": "缝纫机_000024",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:07.279+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:07.279+00:00"
+	},
+	{
+		"thingId": "11FvuzfSaoE",
+		"userName": "DEU10ND_00150101ff000023",
+		"authToken": "73c34ddf5a600e91",
+		"assetId": "00150101ff000023",
+		"name": "缝纫机_000023",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:07.225+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:07.225+00:00"
+	},
+	{
+		"thingId": "11Fvuz0gef6",
+		"userName": "DEU10ND_00150101ff000022",
+		"authToken": "2c7177180a60098a",
+		"assetId": "00150101ff000022",
+		"name": "缝纫机_000022",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:07.172+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:07.172+00:00"
+	},
+	{
+		"thingId": "11FvuyKmGXu",
+		"userName": "DEU10ND_00150101ff000021",
+		"authToken": "8639c1f26f6002cb",
+		"assetId": "00150101ff000021",
+		"name": "缝纫机_000021",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:07.118+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:07.118+00:00"
+	},
+	{
+		"thingId": "11FvuyuKKNW",
+		"userName": "DEU10ND_00150101ff000020",
+		"authToken": "c721670592600f6c",
+		"assetId": "00150101ff000020",
+		"name": "缝纫机_000020",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:07.062+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:07.062+00:00"
+	},
+	{
+		"thingId": "11FvuyfqpMs",
+		"userName": "DEU10ND_00150101ff00001f",
+		"authToken": "f0d1ab16146007c4",
+		"assetId": "00150101ff00001f",
+		"name": "缝纫机_00001f",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:07.006+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:07.006+00:00"
+	},
+	{
+		"thingId": "11Fvuy064KY",
+		"userName": "DEU10ND_00150101ff00001e",
+		"authToken": "bb332938726009dc",
+		"assetId": "00150101ff00001e",
+		"name": "缝纫机_00001e",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:06.952+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:06.952+00:00"
+	},
+	{
+		"thingId": "11FvuxKLJJu",
+		"userName": "DEU10ND_00150101ff00001d",
+		"authToken": "40cb654cc7600340",
+		"assetId": "00150101ff00001d",
+		"name": "缝纫机_00001d",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:06.898+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:06.898+00:00"
+	},
+	{
+		"thingId": "11Fvuxv9NzW",
+		"userName": "DEU10ND_00150101ff00001c",
+		"authToken": "aa9df5b5df6009df",
+		"assetId": "00150101ff00001c",
+		"name": "缝纫机_00001c",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:06.844+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:06.844+00:00"
+	},
+	{
+		"thingId": "11FvuxeYFag",
+		"userName": "DEU10ND_00150101ff00001b",
+		"authToken": "8b606ee4e26008cf",
+		"assetId": "00150101ff00001b",
+		"name": "缝纫机_00001b",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:06.790+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:06.790+00:00"
+	},
+	{
+		"thingId": "11FvuwZEk8M",
+		"userName": "DEU10ND_00150101ff00001a",
+		"authToken": "bf16a84114600403",
+		"assetId": "00150101ff00001a",
+		"name": "缝纫机_00001a",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:06.732+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:06.732+00:00"
+	},
+	{
+		"thingId": "11FvuwJKMRa",
+		"userName": "DEU10ND_00150101ff000019",
+		"authToken": "209d8bfb73600913",
+		"assetId": "00150101ff000019",
+		"name": "缝纫机_000019",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:06.678+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:06.678+00:00"
+	},
+	{
+		"thingId": "11FvuwrAsx2",
+		"userName": "DEU10ND_00150101ff000018",
+		"authToken": "c479c6255760064b",
+		"assetId": "00150101ff000018",
+		"name": "缝纫机_000018",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:06.622+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:06.622+00:00"
+	},
+	{
+		"thingId": "11Fvuw9Zkt2",
+		"userName": "DEU10ND_00150101ff000017",
+		"authToken": "6d6f6e753c600046",
+		"assetId": "00150101ff000017",
+		"name": "缝纫机_000017",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:06.558+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:06.558+00:00"
+	},
+	{
+		"thingId": "11FvuvRP08U",
+		"userName": "DEU10ND_00150101ff000016",
+		"authToken": "3e5c5462f1600ee7",
+		"assetId": "00150101ff000016",
+		"name": "缝纫机_000016",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:06.497+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:06.497+00:00"
+	},
+	{
+		"thingId": "11FvuvzWgWQ",
+		"userName": "DEU10ND_00150101ff000015",
+		"authToken": "c8d8f66bc4600d2f",
+		"assetId": "00150101ff000015",
+		"name": "缝纫机_000015",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:06.432+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:06.432+00:00"
+	},
+	{
+		"thingId": "11FvuviCK0U",
+		"userName": "DEU10ND_00150101ff000014",
+		"authToken": "58d3deae9f6000dd",
+		"assetId": "00150101ff000014",
+		"name": "缝纫机_000014",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:06.370+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:06.370+00:00"
+	},
+	{
+		"thingId": "11Fvuv2JcJi",
+		"userName": "DEU10ND_00150101ff000013",
+		"authToken": "bbfb6c5df46006db",
+		"assetId": "00150101ff000013",
+		"name": "缝纫机_000013",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:06.309+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:06.309+00:00"
+	},
+	{
+		"thingId": "11FvuuNoRHO",
+		"userName": "DEU10ND_00150101ff000012",
+		"authToken": "e9175d338960091b",
+		"assetId": "00150101ff000012",
+		"name": "缝纫机_000012",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:06.252+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:06.252+00:00"
+	},
+	{
+		"thingId": "11Fvuuy4wGk",
+		"userName": "DEU10ND_00150101ff000011",
+		"authToken": "e9419ae2ca60010e",
+		"assetId": "00150101ff000011",
+		"name": "缝纫机_000011",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:06.198+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:06.198+00:00"
+	},
+	{
+		"thingId": "11FvuuisAwM",
+		"userName": "DEU10ND_00150101ff000010",
+		"authToken": "4e6b912fc8600f3c",
+		"assetId": "00150101ff000010",
+		"name": "缝纫机_000010",
+		"classId": "DEVICE",
+		"deviceInfo": {
+			"manufacturer": "朗威",
+			"model": "DEU10ND-GZZJ REV.A",
+			"fwVersion": "V0.1.0",
+			"hwVersion": "V1.00"
+		},
+		"protocol": "ROOTCLOUD_V4",
+		"phase": "TESTING",
+		"model": {
+			"modelId": "11FuY8ERwnm"
+		},
+		"created": "2021-07-06T09:20:06.144+00:00",
+		"createdBy": "BB01180",
+		"updated": "2021-07-06T09:20:06.144+00:00"
+	}
+]
