@@ -1,20 +1,34 @@
 import requests, re, os
 import urllib.parse
+from concurrent.futures import ThreadPoolExecutor
 
-musicList = []
+# 根据歌名在www.9ku.com下载音乐
+
+allMusic = []
+allMusicGroup = []
 
 
 def main():
     # name = input('请输入你要下载的歌曲名称：')
     with open('musicName.txt', encoding='utf-8') as file:
-        musicList = file.read().splitlines()
+        allMusic = file.read().splitlines()
 
+    # 每100首歌拆分为一个数组
+    allMusicGroup = list_split(allMusic, 100)
+
+    # 开启10个线程同时下载
+    with ThreadPoolExecutor(10) as t:
+        for num in range(len(allMusicGroup)):
+            t.submit(download, allMusicGroup[num])
+
+
+def download(musicList):
     for music in musicList:
         name = urllib.parse.quote(music)
         url = f"https://baidu.9ku.com/song/?key={name}"
         headers = {
             'Referer': 'https://www.9ku.com/',
-            'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36'
+            'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36'
         }
         rep1 = requests.get(url=url, headers=headers).text
 
@@ -39,6 +53,12 @@ def main():
         continue
 
     print('全部下载完成！')
+
+
+# 把列表拆分为n个元素的多个列表
+def list_split(items, n):
+    return [items[i:i + n] for i in range(0, len(items), n)]
+
 
 if __name__ == '__main__':
     main()
