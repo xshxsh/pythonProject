@@ -6,7 +6,7 @@ import openpyxl
 url = "https://archery.aulton.com/query/"
 
 # 修改SQL
-payload = "instance_name=abs_message&db_name=abs_message&schema_name=&tb_name=lianlian_order_push_fail&sql_content=select+*+from+lianlian_order_push_fail+where+create_time+%3E'2024-06-01'+and+create_time+%3C'2024-06-16'+and+message%3D'ChargingCompartmentID%E4%B8%8D%E5%85%81%E8%AE%B8%E4%B8%BA%E7%A9%BA'+limit+page%2C1000&limit_num=1000"
+payload = "instance_name=abs_message&db_name=abs_message&schema_name=&tb_name=lianlian_order_push_fail&sql_content=select+*+from+lianlian_order_push_fail+where+create_time+%3E'2024-06-01'+and+create_time+%3C'2024-06-16'+and+message%3D'ChargingCompartmentID%E4%B8%8D%E5%85%81%E8%AE%B8%E4%B8%BA%E7%A9%BA'+limit+{}%2C1000&limit_num=1000"
 
 headers = {
     'Accept': 'application/json, text/javascript, */*; q=0.01',
@@ -31,26 +31,27 @@ headers = {
 }
 
 # 所有数据
-data_rows = []
-limit = 0
-result_row = 1000
-while (result_row >= 1000):
-    # data = payload.format(name="page", place=str(limit))
-    data = payload.replace("page", str(limit))
+all_rows = []
+offset = 0
+current_num = 1000
+while (current_num >= 1000):
+    data = payload.format(str(offset))
+    # data = payload.replace("page", str(limit))
     response = requests.request("POST", url, headers=headers, data=data).json()
     res = response['data']['rows']
-    data_rows.extend(res)
-    result_row = len(res)
-    limit = limit + 1
+    all_rows.extend(res)
+    current_num = len(res)
+    offset += current_num
+    print("SQL：" + response['data']['full_sql'])
     # 休眠秒数，根据SQL执行快慢修改参数
     sleep(1)
-    print("共查询记录数："+len(result_row))
+    print("共查询记录数：" + str(len(all_rows)))
 
 # 创建一个新的Excel工作簿
 wb = openpyxl.Workbook()
 ws = wb.active
 
-for row_idx, row_data in enumerate(data_rows, start=1):
+for row_idx, row_data in enumerate(all_rows, start=1):
     for col_idx, value in enumerate(row_data, start=1):
         cell_value = value if value is not None else ""
         ws.cell(row=row_idx, column=col_idx, value=cell_value)
