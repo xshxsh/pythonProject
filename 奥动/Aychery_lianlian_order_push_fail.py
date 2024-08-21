@@ -42,8 +42,9 @@ while (result_row >= 1000):
     data_rows.extend(res)
     result_row = len(res)
     limit = limit + 1
-    sleep(3)
-    # print(response.text)
+    # 休眠秒数，根据SQL执行快慢修改参数
+    sleep(1)
+    print("共查询记录数："+len(result_row))
 
 # 创建一个新的Excel工作簿
 wb = openpyxl.Workbook()
