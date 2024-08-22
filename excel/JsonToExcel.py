@@ -1,6 +1,5 @@
 import json
 import pandas as pd
-import openpyxl
 
 if __name__ == '__main__':
     # 读取本地json文件
