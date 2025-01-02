@@ -6,12 +6,12 @@ import openpyxl
 # 登录archery页面查询后按F12查看修改SQL和token
 url = "https://archery.aulton.com/query/"
 
-# 修改SQL，注意最后在&limit_num=1000前加上 +limit+{}%2C1000
-payload= "instance_name=abs_order_slave(%E8%AE%A2%E5%8D%95%E4%BB%8E%E5%BA%931)&db_name=abs_order&schema_name=&tb_name=order_swap&sql_content=SELECT+t2.id%2Ct2.swap_no%2Ct2.order_id+from+order_swap_details+t1+LEFT+JOIN+order_swap+t2+on+t1.order_swap_id+%3D+t2.id+where+t2.create_time%3E'2024-09-13'+and+t2.create_time%3C'2024-09-14'+and+t2.trx_status%3D4+and+t2.city_id%3D6+and+t2.consume_type%3D3+and+t2.electric_error_type+in(1%2C2%2C3%2C4%2C5)+limit+{}%2C1000&limit_num=1000"
+# 修改SQL，注意最后在 &limit_num=1000前加上 +limit+{}%2C1000+
+payload= "instance_name=abs_message&db_name=abs_message&schema_name=&tb_name=lianlian_order_push_fail&sql_content=select+*from+lianlian_order_push_fail+where+create_time+%3E'2024-12-30+10%3A00%3A00'+and+create_time+%3C'2024-12-31+16%3A00%3A00'+limit+{}%2C1000+&limit_num=1000"
 headers = {
     # 修改X-CSRFToken,Cookie值
-    'X-CSRFToken': 'fxY4w8oMjnI0m7v0VBhbfgspARWhJypD',
-    'Cookie': '_ga=GA1.2.2134789236.1724124534; csrftoken=fxY4w8oMjnI0m7v0VBhbfgspARWhJypD; sessionid=wgtc8fbskwb0813s4tqxsaxdlm9mj35b',
+    'X-CSRFToken': '2EXFOqXLUn2x59Ie7MgJGcWeXWASREAV',
+    'Cookie': '_ga=GA1.2.143828957.1732874159; csrftoken=2EXFOqXLUn2x59Ie7MgJGcWeXWASREAV; sessionid=4wgb5n59rpu99rzro9xfvvchu8k2hsea',
     'Accept': 'application/json, text/javascript, */*; q=0.01',
     'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
     'Cache-Control': 'no-cache',
